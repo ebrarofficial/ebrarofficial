@@ -38,13 +38,8 @@ I am a passionate developer currently focused on **Mobile Application Developmen
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/ebrarofficial">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ebrarofficial&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ebrar's Github Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarofficial&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-</div>
-<br clear="all">
+![Ebrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebrarofficial&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarofficial&layout=compact&theme=dark&hide_border=true)
 
 ---
 
