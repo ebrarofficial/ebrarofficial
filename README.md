@@ -27,7 +27,6 @@ Currently, I am deeply focused on **.NET ecosystems** and **Hybrid Mobile Develo
 
 <div align="center">
   
----
 **💻 Programming Languages**
 <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -79,9 +78,8 @@ Currently, I am deeply focused on **.NET ecosystems** and **Hybrid Mobile Develo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarofficial&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
 </div>
 
----
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
   <a href="mailto:3brarofficial@gmail.com">
