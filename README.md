@@ -23,6 +23,19 @@ Currently, I am deeply focused on **.NET ecosystems** and **Hybrid Mobile Develo
 * ☁️ **Cloud Integration:** Managing real-time data with **Google Firebase**.
 * 🎓 **The Next Step:** Transferring to a **Software Engineering** faculty.
 
+# 👩‍💻 About Me
+
+> *Computer Programming Student @ Ankara University* 🎓
+> *Aspiring Software Engineer* 🚀
+
+Hi! I'm **Ebrar**, a developer who aims to bring technology and creativity together to create engaging digital experiences.
+
+I develop functional software for **Mobile and Desktop** platforms, while also creating immersive experiences in **Web and Game** development. I design user-friendly interfaces and value combining the logic of code with the aesthetics of design to create a complete and meaningful product.
+
+I manage most of my projects independently, overseeing the entire process from concept to final delivery. This approach allows me to gain a versatile perspective in both **technical architecture** and **design** aspects.
+
+My goal is to develop projects that not only function well but also deliver value and inspiration to the user.
+
 # 💻 Tech Stack
 
 <div align="center">
