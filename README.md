@@ -26,7 +26,7 @@ Currently, I am deeply focused on **.NET ecosystems** and **Hybrid Mobile Develo
 ---
 
 ### 💻 Tech Stack
-
+<div align="center">
 **💻 Programming Languages**
 <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -67,6 +67,7 @@ Currently, I am deeply focused on **.NET ecosystems** and **Hybrid Mobile Develo
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
 ---
 
 ### 📊 GitHub Analytics
