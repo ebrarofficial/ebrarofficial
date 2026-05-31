@@ -73,7 +73,6 @@ My approach is simple: keep learning, keep building, and never stop improving.
 
 ---
 </div
-
 <div align="center">
   <p><b>Think we'd be a good fit? Let's get in touch.</b></p>
   <code>> mailto: 3brarofficial@gmail.com</code>
