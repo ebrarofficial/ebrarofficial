@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello,+I'm+Ebrar+Aytac;Full+-+Stack+Developer;Future+Software+Engineer" alt="Typing SVG" />
-  </a>
+  <img src="banner.gif" alt="Futuristic Banner" width="100%" />
 </div>
 
 ---
