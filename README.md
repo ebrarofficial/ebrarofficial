@@ -72,8 +72,7 @@ My approach is simple: keep learning, keep building, and never stop improving.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
-</div
----
+</div>
 <div align="center">
   <p><b>Think we'd be a good fit? Let's get in touch.</b></p>
   <code>> mailto: 3brarofficial@gmail.com</code>
