@@ -71,16 +71,7 @@ My approach is simple: keep learning, keep building, and never stop improving.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
-</div>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ebrarofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarofficial&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-</div>
-
+</div
 
 # 🌐 Connect With Me
 
