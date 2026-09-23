@@ -7,6 +7,7 @@
 # 👩‍💻 About Me
 
 > *Graduate in Computer Programming @ Ankara University* 🎓
+
 > *Computer Engineering Student @ KSBU* 🚀
 
 Hi! I'm **Ebrar**👋
