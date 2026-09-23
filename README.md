@@ -6,9 +6,9 @@
 
 # 👩‍💻 About Me
 
-> *Graduate in Computer Programming @ Ankara University* 🎓
-
 > *Computer Engineering Student @ KSBU* 🚀
+
+> Computer Programming Graduate @ Ankara University* 🎓
 
 Hi! I'm **Ebrar**👋
 
