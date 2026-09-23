@@ -8,7 +8,7 @@
 
 > *Computer Engineering Student @ KSBU* 🚀
 
-> Computer Programming Graduate @ Ankara University* 🎓
+> *Computer Programming Graduate @ Ankara University* 🎓
 
 Hi! I'm **Ebrar**👋
 
