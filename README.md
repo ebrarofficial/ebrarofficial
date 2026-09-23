@@ -6,18 +6,16 @@
 
 # 👩‍💻 About Me
 
-> *Computer Programming Student @ Ankara University* 🎓
-> *Aspiring Software Engineer* 🚀
+> *Graduate in Computer Programming @ Ankara University* 🎓
+> *Computer Engineering Student @ KSBU* 🚀
 
 Hi! I'm **Ebrar**👋
 
-I am a Computer Programming student at Ankara University with a passion for technology, creativity, and continuous self-improvement.
+I am a Computer Engineering student at Kütahya Health Sciences University and a valedictorian graduate of the Computer Programming at Ankara University. I am passionate about technology, creativity, and continuous self-improvement.
 
 I enjoy building projects that allow me to learn new concepts, explore different areas of software development, and gain experience through practice. Every challenge is an opportunity to grow, and I constantly seek ways to expand both my technical knowledge and problem-solving abilities.
 
 My approach is simple: keep learning, keep building, and never stop improving.
-
-🎯 Currently working toward becoming a Software Engineer and lifelong learner.
 
 # 💻 Tech Stack
 
